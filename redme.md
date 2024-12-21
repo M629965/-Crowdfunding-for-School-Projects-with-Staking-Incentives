@@ -6,6 +6,8 @@ This smart contract facilitates crowdfunding for school projects while incentivi
 ## Contract Address
 ```
 0xE2B251c0f53Fe4De8968FfCd93994f96F1dbCE9A
+![image](https://github.com/user-attachments/assets/451a77b5-f991-46cd-8c27-aee567d0aa03)
+
 
 ## Key Features
 - **Project Creation**: Users can create projects specifying a funding goal and a deadline.
